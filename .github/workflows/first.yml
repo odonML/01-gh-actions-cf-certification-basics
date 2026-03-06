@@ -1,0 +1,20 @@
+name: Demo de action
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  print-hola-mundo:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "hola mundo"
+
+
+
+
+
+
+
+
+
