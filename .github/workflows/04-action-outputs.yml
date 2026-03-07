@@ -1,7 +1,7 @@
 name: 04 Action outputs
 on:
   push:
-    branches: [main]
+    branches: [main2]
 
 jobs:
     first-job:
