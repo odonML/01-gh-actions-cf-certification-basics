@@ -1,4 +1,4 @@
-name: Demo de action
+name: Paralelo action
 
 on:
   push:

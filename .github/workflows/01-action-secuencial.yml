@@ -1,4 +1,4 @@
-name: Demo de action
+name: Secuencial action
 
 on:
   push:
