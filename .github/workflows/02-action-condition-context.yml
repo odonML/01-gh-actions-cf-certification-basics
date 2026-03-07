@@ -1,4 +1,4 @@
-name: Conditional context action
+name: 02 Conditional context action
 
 on:
   push:

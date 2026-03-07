@@ -1,4 +1,4 @@
-name: Paralelo action
+name: 01 Paralelo action
 
 on:
   push:

@@ -1,4 +1,4 @@
-name: Secuencial action
+name: 01 Secuencial action
 
 on:
   push:
