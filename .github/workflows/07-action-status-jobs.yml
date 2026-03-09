@@ -1,0 +1,11 @@
+name: 07 Action status jobs
+on:
+  push:
+    branches: [main]
+jobs:
+    first-job:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Read file
+              run: cat file.txt
+

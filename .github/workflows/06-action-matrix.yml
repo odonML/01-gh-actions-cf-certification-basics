@@ -2,12 +2,12 @@ name: 06 Action matrix
 
 on:
   push:
-    branches: [main]
+    branches: [main2]
 
 jobs:
     build:
         runs-on: ubuntu-latest
-        
+
         strategy:
             matrix:
                 node-version: [14, 16, 18]
